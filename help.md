@@ -118,3 +118,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-16
 - Final Thoughts on Tableau
 
+## 2024-07-30
+- Introduction to Tableau
+
