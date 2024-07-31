@@ -67,3 +67,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-07-30
 - Introduction to Tableau
 
+## 2024-07-31
+- Connecting Tableau to Data Sources
+
