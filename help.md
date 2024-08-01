@@ -124,3 +124,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-07-31
 - Connecting Tableau to Data Sources
 
+## 2024-08-01
+- Data Cleaning in Tableau
+
