@@ -127,3 +127,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-01
 - Data Cleaning in Tableau
 
+## 2024-08-02
+- Creating Bar Charts
+
