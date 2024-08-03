@@ -130,3 +130,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-02
 - Creating Bar Charts
 
+## 2024-08-03
+- Line Charts and Time Series
+
