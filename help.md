@@ -79,3 +79,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-03
 - Line Charts and Time Series
 
+## 2024-08-04
+- Pie Charts and Tree Maps
+
