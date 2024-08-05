@@ -82,3 +82,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-04
 - Pie Charts and Tree Maps
 
+## 2024-08-05
+- Filters and Parameters
+
