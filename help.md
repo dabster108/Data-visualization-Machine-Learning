@@ -139,3 +139,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-05
 - Filters and Parameters
 
+## 2024-08-06
+- Calculated Fields
+
