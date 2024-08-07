@@ -88,3 +88,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-06
 - Calculated Fields
 
+## 2024-08-07
+- Joins and Blends
+
