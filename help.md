@@ -91,3 +91,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-07
 - Joins and Blends
 
+## 2024-08-08
+- Dashboard Basics
+
