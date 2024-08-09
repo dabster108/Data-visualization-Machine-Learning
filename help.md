@@ -148,3 +148,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-08
 - Dashboard Basics
 
+## 2024-08-09
+- Interactive Dashboards
+
