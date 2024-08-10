@@ -151,3 +151,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-09
 - Interactive Dashboards
 
+## 2024-08-10
+- Publishing to Tableau Server
+
