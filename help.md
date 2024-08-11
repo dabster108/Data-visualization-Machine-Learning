@@ -100,3 +100,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-10
 - Publishing to Tableau Server
 
+## 2024-08-11
+- Storytelling with Tableau
+
