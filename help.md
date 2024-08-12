@@ -103,3 +103,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-11
 - Storytelling with Tableau
 
+## 2024-08-12
+- Advanced Analytics in Tableau
+
