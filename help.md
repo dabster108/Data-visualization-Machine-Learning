@@ -160,3 +160,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-12
 - Advanced Analytics in Tableau
 
+## 2024-08-13
+- Using R and Python with Tableau
+
