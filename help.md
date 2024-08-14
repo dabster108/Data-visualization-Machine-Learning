@@ -163,3 +163,6 @@ subprocess.run(["git", "push", "origin", "main"])
 ## 2024-08-13
 - Using R and Python with Tableau
 
+## 2024-08-14
+- Case Study: Sales Dashboard
+
