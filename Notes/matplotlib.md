@@ -1,1 +1,1 @@
-Matplotlib for plotting: line plots, scatter plots, bar charts, subplots, and customizations.
+Matplotlib for plotting: line plots, scatter plots, bar charts, subplots, and customizations. - new

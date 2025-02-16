@@ -1,1 +1,1 @@
-Seaborn for data visualization with histograms, scatter plots, boxplots, heatmaps, and customization.
+Seaborn for data visualization with histograms, scatter plots, boxplots, heatmaps, and customization. - new
