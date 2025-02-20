@@ -1,1 +1,1 @@
-Transforming data: scaling, normalization, encoding, and binning. - new - new
+Transforming data: scaling, normalization, encoding, and binning. - new - new - new
