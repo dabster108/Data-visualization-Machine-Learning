@@ -1,1 +1,1 @@
-NumPy basics including array creation, operations, slicing, reshaping, broadcasting, aggregation, and random module. - new - new - new
+NumPy basics including array creation, operations, slicing, reshaping, broadcasting, aggregation, and random module. - new - new - new - new
