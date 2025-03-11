@@ -19,3 +19,4 @@ AI: Expert Systems
 ML: Hyperparameter tuning
 ML: Linear Regression explanation
 ML: Decision Trees overview
+AI: History of AI
