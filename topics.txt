@@ -23,3 +23,4 @@ AI: History of AI
 AI: Neural Networks basics
 ML: Feature Engineering tips
 AI: Reinforcement Learning intro
+ML: Random Forest details
