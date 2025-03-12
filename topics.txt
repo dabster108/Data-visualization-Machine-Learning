@@ -7,3 +7,4 @@ AI: Reinforcement Learning intro
 ML: Random Forest details
 AI: NLP applications
 ML: Support Vector Machines
+AI: Computer Vision intro
