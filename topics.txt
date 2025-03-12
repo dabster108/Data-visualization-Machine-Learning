@@ -24,3 +24,4 @@ AI: Neural Networks basics
 ML: Feature Engineering tips
 AI: Reinforcement Learning intro
 ML: Random Forest details
+AI: NLP applications
