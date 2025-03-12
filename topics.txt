@@ -34,3 +34,4 @@ AI: Deep Learning frameworks
 ML: Gradient Boosting
 AI: Robotics overview
 ML: PCA technique
+AI: Expert Systems
