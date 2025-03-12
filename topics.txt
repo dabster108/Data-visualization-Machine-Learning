@@ -37,3 +37,4 @@ ML: PCA technique
 AI: Expert Systems
 ML: Hyperparameter tuning
 ML/AI Topic 1
+ML/AI Topic 2
