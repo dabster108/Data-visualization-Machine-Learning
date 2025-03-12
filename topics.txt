@@ -10,3 +10,4 @@ ML: Support Vector Machines
 AI: Computer Vision intro
 ML: Model Evaluation metrics
 AI: Chatbots basics
+ML: K-Means Clustering
