@@ -3,3 +3,4 @@ ML: Decision Trees overview
 AI: History of AI
 AI: Neural Networks basics
 ML: Feature Engineering tips
+AI: Reinforcement Learning intro
